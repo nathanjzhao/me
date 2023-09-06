@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/me/static/css/main.00251f29.css",
-    "main.js": "/me/static/js/main.bcca7434.js",
+    "main.js": "/me/static/js/main.f354630c.js",
     "static/js/787.1ed0c42c.chunk.js": "/me/static/js/787.1ed0c42c.chunk.js",
     "static/media/Face.png": "/me/static/media/Face.f2b4203b32db35f7f51c.png",
     "static/media/Nathan_Zhao_resume.pdf": "/me/static/media/Nathan_Zhao_resume.615f42bb2c872f440289.pdf",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/me/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/me/index.html",
     "main.00251f29.css.map": "/me/static/css/main.00251f29.css.map",
-    "main.bcca7434.js.map": "/me/static/js/main.bcca7434.js.map",
+    "main.f354630c.js.map": "/me/static/js/main.f354630c.js.map",
     "787.1ed0c42c.chunk.js.map": "/me/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00251f29.css",
-    "static/js/main.bcca7434.js"
+    "static/js/main.f354630c.js"
   ]
 }
